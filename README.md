@@ -1,78 +1,72 @@
 # **FarmaCenter**
 
 ## **Colaboradores:**
-### **-Leonardo Cabrera**
+### **Leonardo Cabrera**
 (Scrum Master - Full Stack Developer)
-<br/>
-Edad: 22
-<br/>
-Idiomas: Español (Nativo) - Ingles (Intermedio)
-<br/>
-Lenguajes: Python - Java - JavaScript - Apex
-<br/>
 
-**Descripcion:**
+	⋄ Edad: 22
+	⋄ Idiomas: Español (Nativo) - Ingles (Intermedio)
+	⋄ Lenguajes: Python ⋄ Java - JavaScript - Apex
 
-	- Trabajo en labsxd como salesforce developer
-	- Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
-	- Poseo experiencia como lider de equipos de trabajo
+	Descripcion:
+	⋄ Trabajo en labsxd como salesforce developer
+	⋄ Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
+	⋄ Poseo experiencia como lider de equipos de trabajo
 
 
 
-### **-Luis Quevedo**
+### **Luis Quevedo**
 (BackEnd - Full Stack Developer)
-<br/>
-edad: 22
-<br/>
-idiomas: Español (Nativo) - Ingles (Intermedio)
-<br/>
-**Descripcion:**
+	
+	⋄ Edad: 22
+	⋄ Idiomas: Español (Nativo) - Ingles (Intermedio)
+	⋄ Lenguajes: Python ⋄ Java - JavaScript - Apex
 
-	- Trabajo en labsxd como salesforce developer
-	- Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
-	- Poseo experiencia como lider de equipos de trabajo
+	Descripcion:
+	⋄ Trabajo en labsxd como salesforce developer
+	⋄ Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
+	⋄ Poseo experiencia como lider de equipos de trabajo
 
 
-### **-Facundo Cantarutti**
+### **Facundo Cantarutti**
 (BackEnd - Full Stack Developer)
-<br/>
-edad: 22
-<br/>
-idiomas: Español (Nativo) - Ingles (Intermedio)
-<br/>
-**Descripcion:**
 
-	- Trabajo en labsxd como salesforce developer
-	- Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
-	- Poseo experiencia como lider de equipos de trabajo
+	⋄ Edad: 22
+	⋄ Idiomas: Español (Nativo) - Ingles (Intermedio)
+	⋄ Lenguajes: Python ⋄ Java - JavaScript - Apex
+
+	Descripcion:
+	⋄ Trabajo en labsxd como salesforce developer
+	⋄ Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
+	⋄ Poseo experiencia como lider de equipos de trabajo
+	
+
 
 
 ### **-Matias Cantarutti**
 (BackEnd - Full Stack Developer)
-<br/>
-edad: 22
-<br/>
-idiomas: Español (Nativo) - Ingles (Intermedio)
-<br/>
-**Descripcion:**
 
-	- Trabajo en labsxd como salesforce developer
-	- Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
-	- Poseo experiencia como lider de equipos de trabajo
+	⋄ Edad: 22
+	⋄ Idiomas: Español (Nativo) - Ingles (Intermedio)
+	⋄ Lenguajes: Python ⋄ Java - JavaScript - Apex
+
+	Descripcion:
+	⋄ Trabajo en labsxd como salesforce developer
+	⋄ Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
+	⋄ Poseo experiencia como lider de equipos de trabajo
 
 
 ### **-Valentino Escanes**
 (FrontEnd - Full Stack Developer)
-<br/>
-edad: 22
-<br/>
-idiomas: Español (Nativo) - Ingles (Intermedio)
-<br/>
-**Descripcion:**
 
-	- Trabajo en labsxd como salesforce developer
-	- Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
-	- Poseo experiencia como lider de equipos de trabajo
+	⋄ Edad: 22
+	⋄ Idiomas: Español (Nativo) - Ingles (Intermedio)
+	⋄ Lenguajes: Python ⋄ Java - JavaScript - Apex
+
+	Descripcion:
+	⋄ Trabajo en labsxd como salesforce developer
+	⋄ Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning
+	⋄ Poseo experiencia como lider de equipos de trabajo
 
 
 ## **Proyecto:**
