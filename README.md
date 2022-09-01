@@ -1,9 +1,9 @@
 # **`FarmaCenter`**
 
-## **@Proyecto:**
-### **Objetivos del Negocio**
-	FarmaCenter es un distribuidor de farmacos de la provincia de Mendoza. Luego de la pandemia y los aislamientos hubo un gran aumento de publico abierto a realizar compras por internet. Por esta razon la empresa busca ampliar sus ventas mendiante una pagina web para llegar a mas clientes y explotar todos los beneficios que algo asi puede ofrecer. 
+## :file_folder: **Proyecto** 
+<p>FarmaCenter es un distribuidor de farmacos de la provincia de Mendoza. Luego de la pandemia y los aislamientos hubo un gran aumento de publico abierto a realizar compras por internet. Por esta razon la empresa busca ampliar sus ventas mendiante una pagina web para llegar a mas clientes y explotar todos los beneficios que algo asi puede ofrecer. </p>
 	
+### **Objetivos del Negocio** :chart_with_upwards_trend:
 	Objetivos: 
 	• Mostrar el catalogo de productos y los diferentes locales disponibles via web
 	• Vender productos a distancia
@@ -12,22 +12,21 @@
 	• Permitir a los clientes automedicarse utilizando un sistema de recomendacion por sintomas para medicamentos sin prescripcion 
 	
 	
-### **Publico Objetivo**
+### **Publico Objetivo** :bar_chart:
 	• Demografia a apuntar: adultos y jovenes de la provincia de mendoza
 	• Detonante del publico: falta de tiempo o problemas de movilidad para acercarce a un local
 	• Tipo de ventas: al por menor
 
-### **Necesidades del Cliente**
+### **Necesidades del Cliente** :clipboard:
 	• Interfaz responsiva, minimalista y facil de entender
 	• Capacidad de aceptar diferentes medios de pagos
 	• Facilidad a la hora de cambiar los precios
 	• Tener el proyecto terminado antes del 01/12/2022
 
-<hr/>
 <br/>
 
-##  :busts_in_silhouette:**Colaboradores:** :busts_in_silhouette:
-### **[Leonardo Cabrera](https://github.com/leocabrera23 )** 
+##  :mortar_board: **Colaboradores** 
+### **[Leonardo Cabrera](https://github.com/leocabrera23 )**:mag_right:
 *(Scrum Master - Full Stack Developer)*
 
 	Edad: 22
@@ -41,7 +40,7 @@
 
 
 
-### **[Luis Quevedo]()**
+### **[Luis Quevedo]()**:mag_right:
 *(BackEnd - Full Stack Developer)*
 	
 	Edad: 22
@@ -54,7 +53,7 @@
 	• Experiencia como lider proyectos y trabajo en equipo
 
 
-### **[Facundo Cantarutti]()**
+### **[Facundo Cantarutti]()**:mag_right:
 *(BackEnd - Full Stack Developer)*
 
 	Edad: 22
@@ -69,7 +68,7 @@
 
 
 
-### **[Matias Cantarutti]()**
+### **[Matias Cantarutti]()**:mag_right:
 *(BackEnd - Full Stack Developer)*
 
 	Edad: 22
@@ -82,7 +81,7 @@
 	• Experiencia como lider proyectos y trabajo en equipo
 
 
-### **[Valentino Escanes]()**
+### **[Valentino Escanes]()**:mag_right:
 *(FrontEnd - Full Stack Developer)*
 
 	Edad: 22
@@ -94,10 +93,10 @@
 	• Conociemiento en desarrollo web, ciencia de datos, deep machine y machine learning
 	• Experiencia como lider proyectos y trabajo en equipo
 
-<hr/>
+
 <br/>
 
-### **Referencias**
+## :memo: **Referencias**
 
 - <a href="https://www.farmacity.com">Farmacity</a>
 
