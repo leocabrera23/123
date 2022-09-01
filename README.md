@@ -26,7 +26,7 @@
 <hr/>
 <br/>
 
-##  **@Colaboradores:** :camera:
+##  :busts_in_silhouette:**Colaboradores:** :busts_in_silhouette:
 ### **[Leonardo Cabrera](https://github.com/leocabrera23 )** 
 *(Scrum Master - Full Stack Developer)*
 
