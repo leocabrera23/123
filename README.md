@@ -1,4 +1,4 @@
-# <center>**FarmaCenter**
+# <center>**FarmaCenter**</center>
 
 
 ##  **Colaboradores:**
