@@ -75,18 +75,24 @@ FarmaCenter es un distribuidor de farmacos de la provincia de Mendoza. Luego de 
 <br/>
 Objetivos: 
 -mostrar el catalogo de productos y los diferentes locales disponibles via web
+<br/>
 -vender productos a distancia
+<br/>
 -permitir retiros en el local con factura o codigo QR de la compra para ahorrar tiempo
+<br/>
 -realizar envios de los productos al domicilio de clientes
+<br/>
 -permitir a sus clientes automedicarse utilizando un sistema de recomendacion por sintomas para medicamentos sin prescripcion 
 <br/>
 <br/>
 ### <b>Publico Objetivo</b>
 -demografia a apuntar: adultos y jovenes de la provincia de mendoza
+<br/>
 -detonante del publico: falta de tiempo o problemas de movilidad para acercarce a un local
+<br/>
 -tipo de ventas: al por menor
 <br/><br/>
-### <b>Necesidades del Clientes</b>
+### <b>Necesidades del Cliente</b>
 -interfaz responsiva, minimalista y facil de entender
 <br/>
 -capacidad de aceptar diferentes medios de pagos
