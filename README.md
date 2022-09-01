@@ -14,7 +14,7 @@ Lenguajes: Python - Java - JavaScript - Apex
 	<li>Trabajo en labsxd como salesforce developer</li>
 	<li>Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning</li>
 	<li>Poseo experiencia como lider de equipos de trabajo</li>
-</ul><br/>
+</ul>
 
 
 ### <b>-Luis Quevedo</b>
@@ -28,7 +28,7 @@ idiomas: Español (Nativo) - Ingles (Intermedio)
 	<li>Trabajo en labsxd como salesforce developer</li>
 	<li>Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning</li>
 	<li>Poseo experiencia como lider de equipos de trabajo</li>
-</ul><br/>
+</ul>
 
 ### <b>-Facundo Cantarutti</b>
 (BackEnd - Full Stack Developer)
@@ -41,7 +41,7 @@ idiomas: Español (Nativo) - Ingles (Intermedio)
 	<li>Trabajo en labsxd como salesforce developer</li>
 	<li>Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning</li>
 	<li>Poseo experiencia como lider de equipos de trabajo</li>
-</ul><br/>
+</ul>
 
 ### <b>-Matias Cantarutti</b>
 (BackEnd - Full Stack Developer)
@@ -54,7 +54,7 @@ idiomas: Español (Nativo) - Ingles (Intermedio)
 	<li>Trabajo en labsxd como salesforce developer</li>
 	<li>Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning</li>
 	<li>Poseo experiencia como lider de equipos de trabajo</li>
-</ul><br/>
+</ul>
 
 ### <b>-Valentino Escanes</b>
 (FrontEnd - Full Stack Developer)
@@ -67,7 +67,7 @@ idiomas: Español (Nativo) - Ingles (Intermedio)
 	<li>Trabajo en labsxd como salesforce developer</li>
 	<li>Tengo conociemiento en paginas web, ciencia de datos, deep machine y machine learning</li>
 	<li>Poseo experiencia como lider de equipos de trabajo</li>
-</ul><br/>
+</ul>
 
 ## <b>Proyecto:</b>
 ### <b>Objetivos del Negocio</b>
@@ -88,8 +88,11 @@ Objetivos:
 <br/><br/>
 ### <b>Necesidades del Clientes</b>
 -interfaz responsiva, minimalista y facil de entender
+<br/>
 -capacidad de aceptar diferentes medios de pagos
+<br/>
 -facilidad a la hora de cambiar los precios
+<br/>
 -tener el proyecto terminado antes del 01/12/2022
 <br/><br/>
 ### <b>Referencias</b>
